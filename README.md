@@ -1,2 +1,1 @@
-# dropPrimarykeyMySQL
-drop the primary key in MySQL
+ALTER TABLE table_name  DROP PRIMARY KEY
